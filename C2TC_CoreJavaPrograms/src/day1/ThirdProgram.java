@@ -14,7 +14,7 @@ public class ThirdProgram {
 		
 		
 		int marker=512;
-		//assingning expression to variable
+		//assigning expression to variable
 		double percentage =marker*0.46f;
 		System.out.println("percentage :"+ percentage);
 
