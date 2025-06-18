@@ -1,4 +1,3 @@
-//Program to demonstrate Constructor 
 package Day3;
 
 public class Customer {
@@ -6,13 +5,10 @@ public class Customer {
 	 private int customerId;
 	 private String customerCity;
 	 
-	// Default Constructor
 	public Customer() {
 		System.out.println("Default Constructor");
 	}
 	
-	//Parameterized Constructor
-	//use of this keyword
 	public Customer(String customerName, int customerId, String customerCity) {
 		
 		this(); //calling default constructor
