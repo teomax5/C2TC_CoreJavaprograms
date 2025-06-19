@@ -1,7 +1,7 @@
 //Program to demonstrate Private Constructor and Singleton class
 package Day4.ThirdPackage;
 
-public class PrivateConstructorsDemo {
+public class PrivateConstructorDemo {
 	public static void main(String s[]) {
 		// Can't create object with private constructor
 		// MyClass m1=new MyClass();
